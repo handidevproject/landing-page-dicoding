@@ -25,8 +25,8 @@ Landing page ini dirancang untuk menjadi halaman depan yang menarik dan informat
 Tidak ada proses instalasi khusus yang diperlukan. Cukup kloning repositori ini dan buka file `index.html` di browser Anda.
 
 ```bash
-git clone https://github.com/nama-user-anda/nama-repo-anda.git
-cd nama-repo-anda
+git clone https://github.com/handidevproject/landing-page-dicoding.git
+cd landing-page-dicoding
 ```
 
 ## Cara Menggunakan
